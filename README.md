@@ -5,7 +5,7 @@
         <br>
           OPEN HOUSE 2024
             <br>
-              DBFT - Blockchain Project
+              DBFT Showcase
                 <br>
                   By <a href="https://github.com/xypheral">xypheral</a>
                     </h4>
