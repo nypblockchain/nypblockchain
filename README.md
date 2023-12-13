@@ -3,7 +3,7 @@
 </p>
 <h4 align="center">Nanyang Polytechnic's School of Infocomn Technology</h4>
 <h4 align="center">2024 OPEN HOUSE SHOW CASE</h4>
-<h4 align="center">Blockchain Project</h4>
+<h4 align="center">DBFT - Blockchain Project</h4>
 <h4 align="center">By
   <a href="https://github.com/xypheral">Xypheral</a>
 </h4>
