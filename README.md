@@ -7,6 +7,6 @@
             <br>
               DBFT - Blockchain Project
                 <br>
-                  By <a href="https://github.com/xypheral">Xypheral</a>
+                  By <a href="https://github.com/xypheral">xypheral</a>
                     </h4>
 
