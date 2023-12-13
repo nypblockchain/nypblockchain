@@ -3,7 +3,7 @@
     <br>
       Nanyang Polytechnic's School of Infocomn Technology 
         <br>
-          2024 OPEN HOUSE SHOW CASE
+          OPEN HOUSE 2024
             <br>
               DBFT - Blockchain Project
                 <br>
