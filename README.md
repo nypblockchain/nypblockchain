@@ -3,7 +3,7 @@
     <br>
       Nanyang Polytechnic's School of Infocomn Technology 
         <br>
-          OPEN HOUSE 2024
+          OPEN HOUSE 2024 & 2025
             <br>
               DBFT Showcase
                 <br>
